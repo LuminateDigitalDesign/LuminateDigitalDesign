@@ -1,30 +1,24 @@
 # Luminate Digital Design — Launch Checklist
 
-## Built
-- [x] Responsive website
-- [x] Mobile nav
-- [x] Services / pricing / process / FAQ
-- [x] Inquiry form
-- [x] Wordmark + favicon
-- [x] 404 page
-- [x] robots.txt + sitemap template
-- [x] Client workflow templates
-- [x] Legal templates
+## Verified October 8, 2026
+- [x] GitHub connected: LuminateDigitalDesign/LuminateDigitalDesign
+- [x] Website published through GitHub Pages; public URL returns HTTP 200
+- [x] Business email configured: luminatedigitaldesign@outlook.com
+- [x] Inquiry form prepares an email; customer must send it from their email app
+- [x] Direct contact email visible on website
+- [x] Sitemap and robots use the published website address
+- [x] Services and starting prices published: $150+, $500+, $1,000+
+- [x] Client intake, quote, outreach and delivery templates available
+- [x] Concept portfolio labeled as concepts
+- [x] Qualified prospect list prepared in separate business files
 
-## Account actions
-- [ ] Real business email
-- [ ] Domain + DNS
-- [ ] Enable GitHub Pages
-- [ ] Replace placeholder email/domain
-- [ ] Customize legal pages
-- [ ] Payment/invoice setup
-- [ ] Business registration/licensing as applicable
+## Still open
+- [ ] Choose and activate a payment/invoicing account; verify ability to receive deposits
+- [ ] Finalize client agreement and privacy information
+- [ ] Confirm business registration/licensing status as applicable
+- [ ] Expand portfolio with finished examples and authorized client work
+- [ ] Begin personalized outreach and track responses
+- [ ] Optional: purchase and connect a custom domain
 
-## Sales
-- [ ] 6–9 strong portfolio pieces
-- [ ] Qualified prospect list
-- [ ] Personalized outreach
-- [ ] Signed agreement + deposit before production
-- [ ] Testimonial + portfolio permission after delivery
-
-**Rule:** no signed agreement + no deposit = no production work.
+## Production gate
+Signed agreement and cleared deposit before production. Payment policy must be agreed in each quote. Do not mark payment, registration, email delivery, or outreach complete without verification.
