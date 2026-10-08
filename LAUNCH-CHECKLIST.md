@@ -12,8 +12,11 @@
 - [x] Concept portfolio labeled as concepts
 - [x] Qualified prospect list prepared in separate business files
 
+- [x] Square Free active (confirmed by owner)
+- [x] Square project payment link connected: https://square.link/u/USXY8X4Q
+
 ## Still open
-- [ ] Choose and activate a payment/invoicing account; verify ability to receive deposits
+- [ ] Verify first payment and payout; finalize invoice settings
 - [ ] Finalize client agreement and privacy information
 - [ ] Confirm business registration/licensing status as applicable
 - [ ] Expand portfolio with finished examples and authorized client work
