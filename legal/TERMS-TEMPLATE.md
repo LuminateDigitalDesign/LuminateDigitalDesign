@@ -1,24 +1,13 @@
-# Terms Template
+# Engagement terms — working draft
 
-This is a starting template, not legal advice. Have it reviewed for the actual business, jurisdiction and services before publishing.
+Finalize for the verified contracting identity and actual client jurisdiction before signature. This is an operating draft, not a signed agreement.
 
-## 1. Services
-Luminate Digital Design provides design and digital services described in an approved project quote or agreement.
+Services are limited to the accepted quote: named tools, location, workflows, record caps, email templates, management reviews and change allowance. SMS, AI voice, additional locations, paid advertising and software subscriptions are excluded unless separately agreed.
 
-## 2. Payment
-Unless otherwise agreed, a 50% deposit is required to begin and the remaining balance is due before final delivery or launch.
+Specify setup milestones, client acceptance, activation date, management billing period, taxes, due dates and cancellation/refund handling. Pilot continuation requires a separate agreement. No charge to a saved payment method without explicit authorization.
 
-## 3. Revisions and Scope
-The included revision rounds and deliverables are defined in the approved quote. Additional work may require a new quote.
+Client retains its platform accounts, supplies authorized data, approves messages and routing, and assigns a responder. Define each party's data role, permitted uses, subprocessors, access controls, incident reporting, retention and end-of-service deletion/handover in a separate data schedule. Do not promise compliance based on this draft alone.
 
-## 4. Client Materials
-The client is responsible for having appropriate rights to materials they provide.
+Service provider tests configured workflows, respects approved suppression/stop conditions, reports incidents, and stays within agreed scope. The engagement provides no guarantee of leads, booked jobs, revenue or profit. Define support hours, escalation, service limitations, intellectual-property ownership, confidentiality, liability, dispute resolution and applicable law before execution.
 
-## 5. Portfolio
-Portfolio use should be agreed with the client where appropriate.
-
-## 6. Cancellation
-Cancellation, refunds and project deposits should be defined in the final client agreement.
-
-## 7. Limitation
-Obtain professional legal advice before relying on this template.
+Additional scope requires a written change order. Existing accepted design-service commitments remain governed by their original agreements.

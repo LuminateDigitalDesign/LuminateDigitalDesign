@@ -1,20 +1,7 @@
-# Privacy Policy Template
+# Client data schedule — working draft
 
-This is a starting template, not legal advice. Customize it for the actual tools, data collection and jurisdiction before publishing.
+The website inquiry notice is published at privacy.html. This separate draft concerns customer data in paid client engagements and must be completed before accessing live records.
 
-## Information Collected
-The project inquiry form may collect name, email, project details and optional budget information.
+Identify verified business identity, client/controller, provider role, approved platforms/subprocessors, countries involved, record categories, purpose, consent/legal basis established by client, and data subjects. Define least-privilege access, credential handling, suppression records, deletion and backup limitations, incident notifications, contractual restrictions, and end-of-service handover.
 
-## Use
-Information is used to respond to inquiries, prepare quotes and communicate about requested services.
-
-## Third Parties
-List any email, hosting, analytics, payment or other services that receive personal information.
-
-## Retention
-State how long inquiry and client information is retained and how deletion requests are handled.
-
-## Contact
-Replace with the actual business contact information.
-
-Have this policy reviewed for the actual business before publication.
+No client customer lists, customer message history, credentials or sensitive data belong in the public GitHub repository. Test demonstrations use fabricated test records clearly labeled as such.

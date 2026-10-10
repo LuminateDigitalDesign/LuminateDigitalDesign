@@ -1,27 +1,22 @@
-# Luminate Digital Design — Launch Checklist
+# Pivot launch checklist
 
-## Verified October 8, 2026
-- [x] GitHub connected: LuminateDigitalDesign/LuminateDigitalDesign
-- [x] Website published through GitHub Pages; public URL returns HTTP 200
-- [x] Business email configured: luminatedigitaldesign@outlook.com
-- [x] Inquiry form prepares an email; customer must send it from their email app
-- [x] Direct contact email visible on website
-- [x] Sitemap and robots use the published website address
-- [x] Services and starting prices published: $150+, $500+, $1,000+
-- [x] Client intake, quote, outreach and delivery templates available
-- [x] Concept portfolio labeled as concepts
-- [x] Qualified prospect list prepared in separate business files
+October 10, 2026. Use actual platform evidence before marking account actions complete.
 
-- [x] Square Free active (confirmed by owner)
-- [x] Square project payment link connected: https://square.link/u/USXY8X4Q
+- [x] New offer, founding pilot, standard scope and pricing prepared
+- [x] Website and inquiry flow rewritten for managed follow-up
+- [x] Revenue arithmetic, sales assumptions, capacity limits and pilot gates documented
+- [x] Intake, quote, outreach and delivery templates rewritten
+- [x] Existing GitHub, Outlook and Square references retained
+- [ ] Verify this pivot commit's GitHub Pages deployment
+- [ ] Confirm Square checkout description/amount handling and payout status for the new offer
+- [ ] Verify current Outlook send eligibility before prospect sends
+- [ ] Apply any desired provider display-name changes through supported account settings
+- [ ] Review legal business/trade-name status and finalize written client terms
+- [ ] Complete Ads Manager identity verification and billing only if paid ads are later authorized
+- [ ] Build and validate a test-record workflow before selling implementation as available
+- [ ] Confirm delivery capacity and supported client platform
+- [ ] Sell first paid pilot, obtain approved scope and collect agreed deposit
+- [ ] Launch first client workflow after client acceptance
+- [ ] Measure first pilot and validate retention/pricing
 
-## Still open
-- [ ] Verify first payment and payout; finalize invoice settings
-- [ ] Finalize client agreement and privacy information
-- [ ] Confirm business registration/licensing status as applicable
-- [ ] Expand portfolio with finished examples and authorized client work
-- [ ] Begin personalized outreach and track responses
-- [ ] Optional: purchase and connect a custom domain
-
-## Production gate
-Signed agreement and cleared deposit before production. Payment policy must be agreed in each quote. Do not mark payment, registration, email delivery, or outreach complete without verification.
+Old design-service assets are superseded for new leads. Historical messages, quotes, payments and contractual obligations remain historical records.

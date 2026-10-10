@@ -1,25 +1,12 @@
-# Luminate Digital Design
+# Luminate Growth Systems
 
-**Web · Brand · Art**
+Managed inquiry and estimate follow-up for independent home-service companies. A new service direction under existing Luminate Digital Design accounts, updated October 10, 2026.
 
-Launch-ready static website and operating starter kit.
+Website: https://luminatedigitaldesign.github.io/LuminateDigitalDesign/
+Inbox: luminatedigitaldesign@outlook.com
 
-## Included
-- Responsive website + mobile navigation
-- Portfolio, services, pricing, process, FAQ
-- Project inquiry form
-- SVG wordmark + favicon
-- 404 page
-- robots.txt + sitemap template
-- GitHub Pages instructions
-- Client intake, quote, outreach and delivery templates
-- Privacy and Terms templates
-- Final launch checklist
+See BUSINESS-SETUP.md for pricing, scope, the first-year stretch model, sales assumptions, delivery capacity, and unresolved account-side items. Templates are operating drafts; they are not signed contracts or proof of installed integrations.
 
-## Account-side actions still required
-1. Replace `hello@luminatedigitaldesign.com` with the real business inbox.
-2. Replace `YOUR-DOMAIN.com` with the real domain.
-3. Customize and publish legal pages.
-4. Enable GitHub Pages.
-5. Connect the domain/DNS.
-6. Set up invoicing/payment and business registration as applicable.
+The static inquiry form prepares a mailto email and does not submit to a backend. No proprietary CRM, live AI receptionist, client customer messaging integration, sales outcome, or case study is represented as deployed.
+
+Current GitHub hosting and account identifiers are reused. Earlier design-services positioning is superseded for new inquiries. Honor any existing signed client commitments and accepted historical quotes.
